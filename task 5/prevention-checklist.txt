@@ -1,0 +1,24 @@
+TASK 5 – PREVENTION CHECKLIST
+ Cyber Safety and UPI Security Guide
+1. Create Strong and Distinct Passwords: Use complex passwords that combine uppercase and
+lowercase letters, numbers, and symbols. Avoid reusing passwords across different platforms. A
+password manager can help securely store and manage credentials.
+2. Enable Multi-Factor Authentication: Activate two-factor authentication (2FA) on critical accounts
+such as banking, email, and social media. This adds an extra verification layer beyond just a
+password.
+3. Be Careful with Unknown Messages: Do not click on suspicious links or download attachments
+from unknown senders. Cybercriminals often impersonate trusted entities to trick users into
+revealing information.
+4. Confirm Identity Before Sharing Data: Never share sensitive information like Aadhaar, PAN, or
+passport details unless you are certain of the recipient’s authenticity. Always verify the source
+independently.
+5. Keep Systems Updated: Regularly update your devices and applications. Security updates fix
+known vulnerabilities and reduce the risk of exploitation.
+6. Protect UPI Credentials: Never disclose your UPI PIN, OTP, or card details. Legitimate
+institutions will never request this information through calls or messages.
+7. Use UPI Safely: Always verify the recipient’s name before approving payments. Avoid scanning
+QR codes from untrusted sources and monitor transactions through SMS or email alerts.
+8. Report Fraud Immediately: If you suspect fraud, report it without delay through official channels
+such as the National Cyber Crime Portal or the helpline number 1930 to minimize losses.
+Conclusion: Practicing these preventive measures can significantly reduce the risk of falling victim
+to cyber fraud. Awareness, caution, and timely action are essential components of digital safety
